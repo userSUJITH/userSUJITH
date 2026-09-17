@@ -113,12 +113,13 @@ Building projects, solving problems, and learning backend development.
 </p>
 
 ---
-
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Sujith Gorla Buchayagari](https://www.linkedin.com/in/sujith-g123/)
-- 💻 GitHub: [userSUJITH](https://github.com/userSUJITH)
-- 🧠 LeetCode: [My Profile](https://leetcode.com/u/kali0sujith/)
+* 💼 LinkedIn: [Sujith Gorla Buchayagari](https://www.linkedin.com/in/sujith-g123/)
+* 💻 GitHub: [userSUJITH](https://github.com/userSUJITH)
+* 🧠 LeetCode: [My Profile](https://leetcode.com/u/kali0sujith/)
+* 📧 Email: [your-email@example.com](mailto:sujith29827@gmail.com)
+
 
 ---
 
