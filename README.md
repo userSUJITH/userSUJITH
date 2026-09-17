@@ -13,7 +13,7 @@ Building projects, solving problems, and learning backend development.
 <a href="https://leetcode.com/u/kali0sujith/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/userSUJITH">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -117,7 +117,7 @@ Building projects, solving problems, and learning backend development.
 ## 📫 Connect With Me
 
 - 💼 LinkedIn: [Sujith Gorla Buchayagari](https://www.linkedin.com/in/sujith-g123/)
-- 💻 GitHub: [userSUJITH](YOUR_GITHUB_LINK)
+- 💻 GitHub: [userSUJITH](https://github.com/userSUJITH)
 - 🧠 LeetCode: [My Profile](https://leetcode.com/u/kali0sujith/)
 
 ---
