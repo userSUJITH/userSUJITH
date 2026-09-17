@@ -7,10 +7,10 @@
 
 Building projects, solving problems, and learning backend development.
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/sujith-g123/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/kali0sujith/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 <a href="YOUR_GITHUB_LINK">
