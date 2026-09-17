@@ -1,21 +1,12 @@
-
 <div align="center">
 
 # 👋 Hi, I'm Sujith Gorla Buchayagari
 
 ### 💻 Aspiring Software Developer | B.Tech CSE 2027
 
-Building projects, solving problems, and learning backend development.
+**Building projects • Solving problems • Learning every day**
 
-<a href="YOUR_LINKEDIN_LINK">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="YOUR_LEETCODE_LINK">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="YOUR_GITHUB_LINK">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**[LinkedIn] • [LeetCode] • [GitHub]**
 
 </div>
 
@@ -23,12 +14,12 @@ Building projects, solving problems, and learning backend development.
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science Engineering Student (2027)
-- 💻 Aspiring Software Developer
-- 🧠 Practicing Data Structures and Algorithms using Java
-- 🌱 Learning Node.js, Express.js, and React.js
-- 🔌 Exploring REST APIs and API Integration
-- 🎯 Interested in Backend and Full Stack Development
+* 🎓 B.Tech Computer Science Engineering Student (2027)
+* 💻 Aspiring Software Developer
+* 🧠 Practicing Data Structures and Algorithms using Java
+* 🌱 Learning Node.js, Express.js, and React.js
+* 🔌 Exploring REST APIs and API Integration
+* 🎯 Interested in Backend and Full Stack Development
 
 ---
 
@@ -36,27 +27,64 @@ Building projects, solving problems, and learning backend development.
 
 ### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,sql" />
-</p>
+**Java** • **JavaScript** • **SQL**
 
 ### 🌐 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
+**HTML5** • **CSS3** • **JavaScript** • **React.js**
 
 ### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+**Node.js** • **Express.js** • **REST APIs**
 
-### 🗄️ Database & Tools
+### 🗄️ Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
-</p>
+**MySQL**
+
+### 🔧 Tools
+
+**Git** • **GitHub** • **VS Code**
+
+---
+
+## 🧠 Coding Journey
+
+### Progress
+
+```text
+Java
+██████████████████░░  90%
+
+Data Structures & Algorithms
+███████████████░░░░░  75%
+
+SQL
+███████████████░░░░░  75%
+
+JavaScript
+██████████████░░░░░░  70%
+
+Node.js
+███████████░░░░░░░░░  55%
+
+React.js
+████████░░░░░░░░░░░░  40%
+```
+
+> 📌 Progress bars represent my current learning journey and are updated as I improve.
+
+---
+
+## 🏆 Coding Milestones
+
+| Area          | Achievement                              |
+| ------------- | ---------------------------------------- |
+| 🧩 DSA        | **175+ LeetCode problems solved**        |
+| ☕ Java        | Primary language for DSA                 |
+| 🗄️ SQL       | Practicing queries and database concepts |
+| 🟨 JavaScript | Building web applications                |
+| 🔌 APIs       | Learning REST API integration            |
+| 🟢 Node.js    | Building backend applications            |
 
 ---
 
@@ -64,66 +92,113 @@ Building projects, solving problems, and learning backend development.
 
 ### 🔐 Phish Assessor
 
-> Malicious URL identification and threat intelligence application.
+**Malicious URL identification and threat intelligence application**
 
-**Tech Stack:** React.js | Node.js | Express.js | ThreatFox API
+**Tech Stack:** `React.js` `Node.js` `Express.js` `ThreatFox API`
 
-- 🔍 Analyze URLs, domains, and IP addresses
-- 🔌 Integrate external threat intelligence APIs
-- 🤖 AI chatbot assistance
-- 📊 Display threat information and export results
+* 🔍 Analyze URLs, domains, and IP addresses
+* 🔌 Integrate external threat-intelligence APIs
+* 🤖 AI chatbot assistance
+* 📊 Display threat information
+* 📄 Export results as CSV
+* 🌐 Frontend-backend communication
 
-🔗 [View Project](YOUR_PHISH_ASSESSOR_REPO)
+🔗 **[View Project →](YOUR_PHISH_ASSESSOR_REPO)**
 
 ---
 
 ### 💼 Job Portal
 
-> Job portal application connecting students and employers.
+**Job portal application connecting students and employers**
 
-**Tech Stack:** JavaScript | Node.js | Express.js | MySQL
+**Tech Stack:** `Java` `Spring Boot` `MySQL` `JPA/Hibernate` `Thymeleaf`
 
-- 👤 User role management
-- 📄 Resume upload functionality
-- 📝 Job application management
-- 🗄️ Database integration
+* 👤 Role-based user management
+* 📄 Resume upload functionality
+* 📝 Job application management
+* 📊 Application status tracking
+* 🗄️ MySQL database integration
 
-🔗 [View Project](YOUR_JOB_PORTAL_REPO)
-
----
-
-## 🧠 Coding Profiles
-
-<p>
-<a href="YOUR_LEETCODE_LINK">
-<img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-</p>
+🔗 **[View Project →](YOUR_JOB_PORTAL_REPO)**
 
 ---
 
-## 📊 GitHub Statistics
+## 💻 Problem Solving
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=userSUJITH&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
+### 🧩 LeetCode
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=userSUJITH&theme=tokyonight&hide_border=true" />
-</p>
+**175+ Problems Solved**
+
+My primary language for DSA practice is **Java**.
+
+I regularly practice:
+
+* Arrays
+* Strings
+* Hashing
+* Binary Search
+* Sliding Window
+* Linked Lists
+* Trees
+* Dynamic Programming
+* Bit Manipulation
+* SQL
+
+🔗 **[Visit My LeetCode Profile →](YOUR_LEETCODE_LINK)**
+
+---
+
+## 📚 Currently Learning
+
+```text
+JavaScript
+     ↓
+Node.js
+     ↓
+Express.js
+     ↓
+REST APIs
+     ↓
+Backend Development
+     ↓
+React.js
+     ↓
+Full Stack Development
+```
+
+---
+
+## 🎯 Goals
+
+* [ ] Strengthen Data Structures & Algorithms
+* [ ] Improve Java & OOP fundamentals
+* [ ] Master SQL
+* [ ] Strengthen Node.js & Express.js
+* [ ] Learn React.js thoroughly
+* [ ] Build and deploy full-stack applications
+* [ ] Solve more LeetCode problems
+* [ ] Contribute to open-source projects
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
-- 💻 GitHub: [userSUJITH](YOUR_GITHUB_LINK)
-- 🧠 LeetCode: [My Profile](YOUR_LEETCODE_LINK)
+<div align="center">
+
+**💼 LinkedIn:** [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
+
+**🧠 LeetCode:** [175+ Problems](YOUR_LEETCODE_LINK)
+
+**💻 GitHub:** [userSUJITH](YOUR_GITHUB_LINK)
+
+</div>
 
 ---
 
 <div align="center">
 
 ### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Solving 🚀**
 
 </div>
