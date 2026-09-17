@@ -6,7 +6,17 @@
 
 **Building projects • Solving problems • Learning every day**
 
-**[LinkedIn] • [LeetCode] • [GitHub]**
+<br>
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
 
@@ -27,64 +37,63 @@
 
 ### 💻 Programming Languages
 
-**Java** • **JavaScript** • **SQL**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
 ### 🌐 Frontend Development
 
-**HTML5** • **CSS3** • **JavaScript** • **React.js**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+</p>
 
 ### ⚙️ Backend Development
 
-**Node.js** • **Express.js** • **REST APIs**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" alt="REST APIs"/>
+</p>
 
-### 🗄️ Database
+### 🗄️ Database & Tools
 
-**MySQL**
-
-### 🔧 Tools
-
-**Git** • **GitHub** • **VS Code**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
 ---
 
 ## 🧠 Coding Journey
 
-### Progress
+### 📈 Current Progress
 
-```text
-Java
-██████████████████░░  90%
+| Skill         | Progress                   |
+| :------------ | :------------------------- |
+| ☕ Java        | `██████████████████░░` 90% |
+| 🧩 DSA        | `███████████████░░░░░` 75% |
+| 🗄️ SQL       | `███████████████░░░░░` 75% |
+| 🟨 JavaScript | `██████████████░░░░░░` 70% |
+| 🟢 Node.js    | `███████████░░░░░░░░░` 55% |
+| ⚛️ React.js   | `████████░░░░░░░░░░░░` 40% |
 
-Data Structures & Algorithms
-███████████████░░░░░  75%
+> 🚀 Personal learning-progress indicators — continuously improving.
 
-SQL
-███████████████░░░░░  75%
+### 🏆 Coding Milestones
 
-JavaScript
-██████████████░░░░░░  70%
-
-Node.js
-███████████░░░░░░░░░  55%
-
-React.js
-████████░░░░░░░░░░░░  40%
-```
-
-> 📌 Progress bars represent my current learning journey and are updated as I improve.
-
----
-
-## 🏆 Coding Milestones
-
-| Area          | Achievement                              |
-| ------------- | ---------------------------------------- |
-| 🧩 DSA        | **175+ LeetCode problems solved**        |
-| ☕ Java        | Primary language for DSA                 |
-| 🗄️ SQL       | Practicing queries and database concepts |
-| 🟨 JavaScript | Building web applications                |
-| 🔌 APIs       | Learning REST API integration            |
-| 🟢 Node.js    | Building backend applications            |
+* 🧩 **175+ LeetCode problems solved**
+* ☕ Practicing DSA primarily using **Java**
+* 🗄️ Practicing **SQL and database queries**
+* 🌐 Building applications using **JavaScript**
+* 🔌 Learning **REST APIs and API Integration**
+* 🟢 Building backend applications with **Node.js & Express.js**
 
 ---
 
@@ -92,90 +101,54 @@ React.js
 
 ### 🔐 Phish Assessor
 
-**Malicious URL identification and threat intelligence application**
+> Malicious URL identification and threat intelligence application.
 
 **Tech Stack:** `React.js` `Node.js` `Express.js` `ThreatFox API`
 
 * 🔍 Analyze URLs, domains, and IP addresses
-* 🔌 Integrate external threat-intelligence APIs
+* 🔌 Integrate external threat intelligence APIs
 * 🤖 AI chatbot assistance
-* 📊 Display threat information
-* 📄 Export results as CSV
+* 📊 Display threat information and export results
 * 🌐 Frontend-backend communication
 
-🔗 **[View Project →](YOUR_PHISH_ASSESSOR_REPO)**
+🔗 [View Project](YOUR_PHISH_ASSESSOR_REPO)
 
 ---
 
 ### 💼 Job Portal
 
-**Job portal application connecting students and employers**
+> Job portal application connecting students and employers.
 
 **Tech Stack:** `Java` `Spring Boot` `MySQL` `JPA/Hibernate` `Thymeleaf`
 
-* 👤 Role-based user management
+* 👤 User role management
 * 📄 Resume upload functionality
 * 📝 Job application management
 * 📊 Application status tracking
-* 🗄️ MySQL database integration
+* 🗄️ Database integration
 
-🔗 **[View Project →](YOUR_JOB_PORTAL_REPO)**
-
----
-
-## 💻 Problem Solving
-
-### 🧩 LeetCode
-
-**175+ Problems Solved**
-
-My primary language for DSA practice is **Java**.
-
-I regularly practice:
-
-* Arrays
-* Strings
-* Hashing
-* Binary Search
-* Sliding Window
-* Linked Lists
-* Trees
-* Dynamic Programming
-* Bit Manipulation
-* SQL
-
-🔗 **[Visit My LeetCode Profile →](YOUR_LEETCODE_LINK)**
+🔗 [View Project](YOUR_JOB_PORTAL_REPO)
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Coding Profiles
 
-```text
-JavaScript
-     ↓
-Node.js
-     ↓
-Express.js
-     ↓
-REST APIs
-     ↓
-Backend Development
-     ↓
-React.js
-     ↓
-Full Stack Development
-```
+<p>
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+</p>
 
 ---
 
-## 🎯 Goals
+## 🎯 2026–2027 Goals
 
 * [ ] Strengthen Data Structures & Algorithms
-* [ ] Improve Java & OOP fundamentals
+* [ ] Improve Java and OOP fundamentals
 * [ ] Master SQL
 * [ ] Strengthen Node.js & Express.js
 * [ ] Learn React.js thoroughly
-* [ ] Build and deploy full-stack applications
+* [ ] Build full-stack applications
 * [ ] Solve more LeetCode problems
 * [ ] Contribute to open-source projects
 
@@ -183,15 +156,9 @@ Full Stack Development
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-**💼 LinkedIn:** [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
-
-**🧠 LeetCode:** [175+ Problems](YOUR_LEETCODE_LINK)
-
-**💻 GitHub:** [userSUJITH](YOUR_GITHUB_LINK)
-
-</div>
+* 💼 LinkedIn: [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
+* 💻 GitHub: [userSUJITH](YOUR_GITHUB_LINK)
+* 🧠 LeetCode: [My Profile](YOUR_LEETCODE_LINK)
 
 ---
 
