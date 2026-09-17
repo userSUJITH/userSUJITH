@@ -95,7 +95,7 @@ Building projects, solving problems, and learning backend development.
 ## 🧠 Coding Profiles
 
 <p>
-<a href="YOUR_LEETCODE_LINK">
+<a href="https://leetcode.com/u/kali0sujith/">
 <img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
