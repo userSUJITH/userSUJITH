@@ -116,9 +116,9 @@ Building projects, solving problems, and learning backend development.
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
+- 💼 LinkedIn: [Sujith Gorla Buchayagari](https://www.linkedin.com/in/sujith-g123/)
 - 💻 GitHub: [userSUJITH](YOUR_GITHUB_LINK)
-- 🧠 LeetCode: [My Profile](YOUR_LEETCODE_LINK)
+- 🧠 LeetCode: [My Profile](https://leetcode.com/u/kali0sujith/)
 
 ---
 
