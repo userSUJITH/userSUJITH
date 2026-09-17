@@ -105,7 +105,7 @@ Building projects, solving problems, and learning backend development.
 ## 📊 GitHub Statistics
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=userSUJITH&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="![GitHub Stats](https://ghstats.dev/api/card?username=userSUJITH)" />
 </p>
 
 <p>
