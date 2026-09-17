@@ -1,56 +1,129 @@
 
-# Hi, I'm Sujith Gorla Buchayagari 👋
+<div align="center">
 
-🎓 B.Tech Computer Science Engineering Student | 2027
+# 👋 Hi, I'm Sujith Gorla Buchayagari
 
-💻 Aspiring Software Developer
+### 💻 Aspiring Software Developer | B.Tech CSE 2027
+
+Building projects, solving problems, and learning backend development.
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="YOUR_LEETCODE_LINK">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="YOUR_GITHUB_LINK">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science Engineering
-- 💻 Interested in Software Development and Backend Development
-- 🌱 Currently learning Node.js, Express.js, and React.js
+- 🎓 B.Tech Computer Science Engineering Student (2027)
+- 💻 Aspiring Software Developer
 - 🧠 Practicing Data Structures and Algorithms using Java
-- 🔌 Learning REST APIs and API Integration
-- 📫 Open to software development opportunities
+- 🌱 Learning Node.js, Express.js, and React.js
+- 🔌 Exploring REST APIs and API Integration
+- 🎯 Interested in Backend and Full Stack Development
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming
-Java | JavaScript | SQL
+### 💻 Programming Languages
 
-### Backend
-Node.js | Express.js | REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,sql" />
+</p>
 
-### Frontend
-HTML | CSS | JavaScript | React.js
+### 🌐 Frontend Development
 
-### Database
-MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react" />
+</p>
 
-### Tools
-Git | GitHub | VS Code
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### ⚙️ Backend Development
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### 🗄️ Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔐 Phish Assessor
-A malicious URL identification application using
-React.js, Node.js, Express.js, and ThreatFox API.
+
+> Malicious URL identification and threat intelligence application.
+
+**Tech Stack:** React.js | Node.js | Express.js | ThreatFox API
+
+- 🔍 Analyze URLs, domains, and IP addresses
+- 🔌 Integrate external threat intelligence APIs
+- 🤖 AI chatbot assistance
+- 📊 Display threat information and export results
+
+🔗 [View Project](YOUR_PHISH_ASSESSOR_REPO)
+
+---
 
 ### 💼 Job Portal
-A job portal application with user roles,
-job applications, and backend integration.
 
-## 📊 Coding Profiles
+> Job portal application connecting students and employers.
 
-- [LeetCode](YOUR_LEETCODE_LINK)
-- [LinkedIn](YOUR_LINKEDIN_LINK)
+**Tech Stack:** JavaScript | Node.js | Express.js | MySQL
+
+- 👤 User role management
+- 📄 Resume upload functionality
+- 📝 Job application management
+- 🗄️ Database integration
+
+🔗 [View Project](YOUR_JOB_PORTAL_REPO)
+
+---
+
+## 🧠 Coding Profiles
+
+<p>
+<a href="YOUR_LEETCODE_LINK">
+<img src="https://img.shields.io/badge/LeetCode-175%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=userSUJITH&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=userSUJITH&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN_LINK
-- GitHub: YOUR_GITHUB_LINK
+- 💼 LinkedIn: [Sujith Gorla Buchayagari](YOUR_LINKEDIN_LINK)
+- 💻 GitHub: [userSUJITH](YOUR_GITHUB_LINK)
+- 🧠 LeetCode: [My Profile](YOUR_LEETCODE_LINK)
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+</div>
