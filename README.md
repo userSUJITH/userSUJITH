@@ -48,7 +48,6 @@
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
 </p>
 
@@ -68,32 +67,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </p>
-
----
-
-## 🧠 Coding Journey
-
-### 📈 Current Progress
-
-| Skill         | Progress                   |
-| :------------ | :------------------------- |
-| ☕ Java        | `██████████████████░░` 90% |
-| 🧩 DSA        | `███████████████░░░░░` 75% |
-| 🗄️ SQL       | `███████████████░░░░░` 75% |
-| 🟨 JavaScript | `██████████████░░░░░░` 70% |
-| 🟢 Node.js    | `███████████░░░░░░░░░` 55% |
-| ⚛️ React.js   | `████████░░░░░░░░░░░░` 40% |
-
-> 🚀 Personal learning-progress indicators — continuously improving.
-
-### 🏆 Coding Milestones
-
-* 🧩 **175+ LeetCode problems solved**
-* ☕ Practicing DSA primarily using **Java**
-* 🗄️ Practicing **SQL and database queries**
-* 🌐 Building applications using **JavaScript**
-* 🔌 Learning **REST APIs and API Integration**
-* 🟢 Building backend applications with **Node.js & Express.js**
 
 ---
 
