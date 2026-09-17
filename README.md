@@ -105,7 +105,7 @@ Building projects, solving problems, and learning backend development.
 ## 📊 GitHub Statistics
 
 <p>
-<img src="![GitHub Stats](https://ghstats.dev/api/card?username=userSUJITH)" />
+<img src="https://ghstats.dev/api/card?username=userSUJITH" alt="GitHub Stats">
 </p>
 
 <p>
